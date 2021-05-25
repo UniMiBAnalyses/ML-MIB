@@ -16,5 +16,9 @@ Folders:
 
     Dedicated studeis for anomaly detection in   https://github.com/UniMiBAnalyses/ML4Anomalies
     
+    Data: location of data
+    
+    XAI setups: how to understand what ML algorithm does
+    
     
     
